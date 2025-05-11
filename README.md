@@ -19,7 +19,14 @@ Our framework integrates the following key modules:
 These results highlight the transformative potential of our framework in enhancing safety monitoring of MLLMs at construction sites.
 
 # COHSD📦
-In view of the absence of the relevant dataset, this study establishes the first construction industry-oriented visual benchmark dataset for COHS, termed COHSD, so as to systematically validate the effectiveness of the proposed method. COHSD is sourced from three categories: 1) site images containing COHS hazards collected from 12 Chinese construction projects; 2) construction images containing COHS hazards downloaded and filtered from the web; 3) a large-scale image dataset, Site Object Detection Dataset (SODA), specifically compiled and annotated for construction sites. COHSD comprises a total of 226 construction images, among which 53 images are classified as safe, and 173 images contain COHS hazards. The COHS hazard-containing images are categorized into two main types: construction objects and operations, comprehensively covering the predefined 15 types of construction objects and 20 types of operational scenarios. 
+In view of the absence of the relevant dataset, this study establishes the first construction industry-oriented visual benchmark dataset for COHS, termed COHSD, so as to systematically validate the effectiveness of the proposed method. COHSD is sourced from three categories: 
+1) Site images containing COHS hazards collected from 12 Chinese construction projects;
+2) Construction images containing COHS hazards downloaded and filtered from the web;
+3)  A large-scale image dataset, Site Object Detection Dataset (SODA), specifically compiled and annotated for construction sites.
+
+COHSD comprises a total of 226 construction images, among which 53 images are classified as safe, and 173 images contain COHS hazards. The COHS hazard-containing images are categorized into two main types: construction objects and operations, comprehensively covering the predefined 15 types of construction objects and 20 types of operational scenarios. 
+
+COHSD is available from us upon reasonable request.
 ![The proportion of the dataset](https://github.com/user-attachments/assets/9883994d-f4d8-4643-a98b-e3f1558034a6)
 
 <div align="center">Figure1：The proportion of the dataset</div>
