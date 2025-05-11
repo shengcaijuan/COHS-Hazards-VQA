@@ -55,7 +55,7 @@ class InitialRetrievalQueryExtraction:
             temperature=0
         ).choices[0].message.content
 
-        object_query_list = json.loads(object_anchor)  # 将LLM输出的字符串格式的Query_object转换成列表格式
+        object_query_list = json.loads(object_anchor) 
         return object_query_list
 
     def get_operation_query(self, no_operation=None) -> list:
@@ -434,7 +434,7 @@ class COHSHazardDetection:
             else:
                 num_operation_hazards += 1
 
-        # 知识增强文本再分割
+        # Long text chunking
         else:
             context_operation_all_splits = context_operation.split('|')
             for context_operation in context_operation_all_splits:
