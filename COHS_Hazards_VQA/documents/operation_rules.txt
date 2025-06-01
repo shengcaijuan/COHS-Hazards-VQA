@@ -56,11 +56,6 @@ Safety guidelines for Mechanical cutting operation:
 7.Fire extinguishers should be provided for mechanical cutting operations.
 8.For operation with intense cutting sparks, one fire pan should be used to collect the sparks.
 
-Safety guidelines for Earth blasting：
-1.During earth blasting, a warning area must be set up with warning lines.
-2.Warning signs should be placed at the boundary of the danger zone.
-3.Workers should maintain a safe distance from the boundary of the danger zone.
-
 Safety guidelines for Manual earth excavation：
 1.Workers engaged in manual earth-digging operations should wear dust masks.
 2.Workers engaged in manual earth-digging operations should wear protective gloves.|
